@@ -4,6 +4,7 @@ import java.sql.*;
 import java.util.*;
 
 import classes.*;
+import classes.Set;
 
 public class Query {	
 	// Queries	

@@ -25,7 +25,7 @@ public class Program {
 	
 	public Connection getConnection() {
 		try {
-			return DriverManager.getConnection("jdbc:mysql://localhost:3306/testdb", "root", "81y2G$sbk");
+			return DriverManager.getConnection("jdbc:mysql://localhost:3306/testdb", "root", "");
 		} catch (SQLException e) {
 			throw new RuntimeException(e);
 		}
