@@ -3,7 +3,7 @@
 ## Overview
 
 The Test Helper with Database Integration is an enhanced version of the original project. In this version, the application interacts with a MySQL database for storing and managing questions, question stocks, and user authentication. It features role-based access control, allowing different staff members to perform various tasks based on their roles. The roles include practitioner, professor, and senior professor, each with specific permissions. Additionally, the application provides the functionality to print tests directly from the database.
-* Side note: an "American Question" means a multiple choice question.
+* Side note: an "American Question" is a multiple choice question.
 
 ## Features
 
